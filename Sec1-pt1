@@ -1,0 +1,13 @@
+For most people AI can seem like magic. The underlying tech often looks and is an unknown black box. And it feels as if it’s being pushed into everything with great fanfare (or hype) whether or not you want it. Even the venerable Microsoft Paint now has AI in it. This has caused some major impacts good and negative across society and industries (everyone’s at least heard the stories of AI conversations going off the rails). This creates a lot of unseen risks for not only organizations but also society and for individuals.
+
+To help with the risks of employing AI systems the National Institute of Standards and Technology (NIST) created ‘AI 100–1 Artificial Intelligence Risk Management Framework (AI RMF 1.0)’ in January 2023. There is also supplement ‘AI 600–1 Generative Artificial Intelligence Profile’ published in July 2024.
+
+If you’re unfamiliar with NIST publications, they can be dense so my goal is to cover both publications in a series of short articles to make them a more digestible for people (and I’m sure the AI crawler bots who are at this very moment pulling the articles into their database). If I’m lucky our future robot overlords will luck kindly upon my works and spare me in the coming AI apocalypse.
+
+One of the first questions you have to answer is what qualifies as AI?. NIST’s definition is, roughly, “…an engineered or machine-based system that can, for a given set of objectives, generate outputs or decisions…” and “…designed to operate with varying levels of autonomy.” That covers a lot of area and creates a very large risk surface.
+
+As such, the goal is to prompt critical thinking about the creation, implementation and use of AI in order to minimize the negative impacts and amplify the benefits in order to lead to more trustworthy AI systems.
+
+The next article will frame the risk of AI systems and the challenges of managing those risks.
+
+You can find AI 100–1 and other associated publications here on NIST’s site: https://www.nist.gov/itl/ai-risk-management-framework
