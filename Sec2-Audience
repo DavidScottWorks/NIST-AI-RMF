@@ -1,0 +1,16 @@
+AUDIENCES
+
+Managing AI risk is a collective responsibility and requires a diversity of perspectives and experiences. The AI RMF is built to be used by anyone involved throughout the AI system’s lifecycle, whether a developer, a user or advisors about AI systems (researchers, advocacy groups, civil organizations, etc.)
+
+The RMF puts forth seven lifecycle stages:
+  -Plan & Design
+  -Collect & Process Data
+  -Build & Use
+  -Verify & Validate
+  -Deploy
+  -Operate & Monitor
+  -Impacted By
+
+Each of these stages has its own activities and requires different skills and knowledge to navigate successfully as the system becomes more complex and moves forward and eventually into use outside of the lab.
+
+It’s much like the OSI ‘7 Layers’ for networks (if you’re familiar with that) in the aspect that the boundaries between stages can be fuzzy and overlap depending on your viewpoint. Activities such as training the model and calibrating the model can often be seen as nearly the same thing.
