@@ -1,0 +1,34 @@
+Part 2 of my write-up of NIST AI 100–1 AI Risk Framework. 
+
+This part primarily covers the difficulties associated with determine risk levels and priorities of using AI within organizations. Part 1 can be found here.
+
+1.2.1 Challenges of AI Risk Measurement
+THIRD-PARTIES
+AI’s created by external organizations should be classified as third-party risks. The creators’ goals may not align with your organization and may not be transparent about their metrics and methodologies. From a security viewpoint, if you can’t see it fully you probably can’t trust it fully.
+
+RELIABLE METRICS
+There is no current consensus on methods to measure AI risk and trustworthiness. Current methods are often institutional-specific and can often be manipulated in multiple ways or fail to account for affected groups and contexts. Measuring impacts on a group works best when the approach realizes that group and sub-groups may be affected differently and those affected may not be direct users of the system.
+
+AI LIFECYCLE
+AI systems constantly adapt and evolve. The risks at one stage may differ greatly than at a later stage. These changing risk factors can also differ depending on the role of the AI actor. Someone deploying an AI system can have a much different risk than the developer. We can’t assume the developer has the same risks in mind when they create the system.
+
+REAL-WORLD SETTINGS
+Controlled environment testing and results may differ greatly from those which emerge in operational setting.
+
+INSCRUTIABLE
+Most AI’s are opaque and their very nature makes them inherently uncertain systems. It’s near impossible to know what’s going on inside. In addition the developers (for multiple reasons) often want to hide their ‘secret sauce’ and so the systems can — — sometimes deliberately — — lack proper documentation.
+
+HUMAN BASELINE
+  Measuring risk for people requires use of metrics which have some connection back to people in order to make meaningful comparisons. AI’s carry out their actions and ‘thought processes’ much differently than humans which make these metric difficult to define and connect with on a human scale.
+
+1.2.2 AI RISK TOLERANCE
+An organization’s risk tolerance is not something the AI RMF can prescribe. There are simply too many organization-specific realities which influence an acceptable level of risk at any given time. This harm/cost-benefit tradeoff will evolve over time and needs to be decided upon by the individual organizations. Lacking frameworks, organizations should always follow their relevant industry-specific regulations and requirements.
+
+1.2.3 RISK PRIORITIES
+Trying to eliminate all risk is counterproductive because it simply can’t be done. Attempting to do so can increase risk by using resources which are better used in other areas. Each group needs to determine the context of AI use and when that use is the highest risk. In such high risks cases deployment and development should stop.
+The systems and data used to train an AI and how the AI interacts need to be taken into account. Systems trained on sensitive data and interacting with humans can have large negative direct impact, such as revealing personal data to unauthorized individuals.
+
+1.2.4 INTEGRATION AND RISK MANAGEMENT
+AI risk management should be considered into the broader risk strategies and decisions such as cybersecurity and privacy, not isolated. There will always be overlapping risks such as the underlying training data, the integrity of the system and its output, and general security of the software and hardware.
+
+Organizations need to integrate into the appropriate existing mechanisms. This requires dedication at senior levels and may require cultural change within the organization.
