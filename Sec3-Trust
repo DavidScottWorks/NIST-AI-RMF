@@ -1,0 +1,40 @@
+AI RISKS AND TRUST
+
+NIST breaks down AI’s trustworthiness into seven categories.
+
+VALID & RELIABLE
+  Valid and reliable is the base trustworthiness in any system — human, AI or otherwise — and includes an AI’s accuracy and ability to generalize to conditions beyond their training. They need to be able to perform as expected under a variety of conditions for the expected time frame which can be the lifetime of the system.
+  Minimizing negative impacts and errors should be a priority with the understanding human intervention may be required.
+
+SAFE
+  Safe operation of AI can be improved through design and deployment, clear information on responsible use, and documentation of risk based on empirical evidence of incidents.
+  Risks which pose the potential for serious injury or death require the most thorough management process, beginning as early as possible in the planning of the system. Rigorous tests and simulation, real-time monitoring, shut downs, modifications and human intervention should all be aspects of this level of the process. Approaches should take cues from fields such as transportation and healthcare for these processes and align with the required industry regulations and standards.
+
+SECURE & RESILIENT
+  AI systems must use protection mechanisms to maintain confidentiality, integrity, and availability -the classic cybersecurity CIA triad. The NIST Cybersecurity Framework and Risk Management Framework can be used for this.
+  To be considered resilient the systems must be able to maintain their functions and structure when faced with change (internal and external) and be able to degrade without undue harm.
+
+EXPLAINABLE & INTERPRETABLE
+  We must be able to explain how and why a system reaches its decisions and outputs, otherwise it could be just a box spouting anything, true or false, right or wrong.
+  Explainable is the ‘how’ a decision was made. These systems can be monitored, debugged and more thoroughly documented and governed. Interpretable is the ‘why’ part and relies on understanding meaning and context.
+
+PRIVACY ENHANCED
+  AI systems’ unequaled pattern matching abilities present new risks by allowing extreme levels of inference from disparate data sources to identify individuals or deduce private information. This can impact a person’s autonomy, identify and dignity and must be rigorously safeguarded against.
+  Privacy values such as anonymity, confidentiality and control should be guiding choices from the beginning of the design stages. Data minimizing methods for certain model outputs and other privacy technologies can support privacy enhancement but may result in a loss of accuracy, which will affect decisions about fairness and other values in certain domains.
+
+FAIRNESS
+  Fairness concerns equality and equity and addressing issues like bias and discrimination. These standards can differ among cultures and be complex and difficult to define and shift over time. Also, mitigating harmful biases may not result in fair systems. Bias exists in many forms and while not always negative, AI can amplify the speed and scale of the negative effects.
+  Bias is a broad term and NIST identifies three major categories: systemic, computational/statistical, and human cognitive.
+  Systemic bias can be present in data, organizational norms and practices and broader society.
+  Computational and statistical biases can be in data and algorithms, stemming from non-representative samples.
+  Human biases are omnipresent in decision-making across AI and system use, resulting from how individuals or groups functions.
+
+ACCOUNTABLE & TRANSPARENT
+  Accountability and transparency relate to all the other categories.
+  Accountability requires transparency and trustworthiness depends on accountability. Meaningful transparency reflects the amount of information about a system’s output available to an individual and promotes higher levels of understanding and confidence in AI.
+  The scope of this includes design decisions, training data, model training, use cases, and even how and by whom made the decisions and how individuals interact with the system. Information on these aspects are needed to take action on incorrect outputs or negative impacts. Transparent systems often impact accuracy, privacy, security and/or fairness. Determining such factors for an opaque system is difficult (they are, after all, opaque).
+
+  Trustworthiness is ultimately a human social concept with a range of values which emerge from the system’s training data, algorithms, decisions made by developers, interactions with users and social and organizational behaviors.
+  AI risk can be a difficult balancing act and human intervention should be used to decide on specific metrics to find the needed balance. Trade-offs are always involved. The farther the scales are tipped in favor of extensive data the more risk accumulates in privacy violations. High security can result in opaque and unfair systems. Privacy-enhanced systems run the risk of being inaccurate and uninterruptible.
+
+Dealing with these trade-offs should be based on the context and be both transparent and appropriately justifiable by your organization.
