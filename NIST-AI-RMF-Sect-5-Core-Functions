@@ -1,0 +1,13 @@
+Section 5 is all about the structure and use of NIST’s AI Risk Management Framework. It’s a lengthy section so I’ll be breaking it down into more manageable chunks.
+5 AI RMF CORE FUNCTIONS
+
+The Core provides four high-level functions — GOVERN, MAP, MEASURE, AND MANAGE — to manage AI risks. Each function has internal categories which include actions and outcomes, though they aren’t necessarily an ordered set of steps.
+    GOVERN strives to ensure risk management is part of an organization’s culture. This function should be the first an organization puts in place.
+    MAP recognizes the context of AI use and identifies risks.
+    MEASURE assesses, analyzes and tracks the risks identified by Map.
+    MANAGE prioritizes and takes action according to the risks assessments of Measure.
+
+The RMF should be used it as to suit users’ needs based on their resources and capabilities. Once a governance structure is in place MAP is a natural starting point, though functions and actions can be performed as deemed necessary to add value and mitigate emerging AI risks.
+
+The Core are a continual process and should be carried out by multidisciplinary teams with diverse views and talents. A diverse team contributes to surfacing problems and identifying existing and future risks. NIST also provides the AI RMF Playbook (found on NIST’s website) to help with implemention.
+
