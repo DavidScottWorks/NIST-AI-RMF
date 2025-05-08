@@ -1,0 +1,35 @@
+5.1 GOVERN
+GOVERN consists of six categories, each with its own subcategories, concerning the policies and norms for an organization’s risk culture and sets the tone. Documentation should provide transparency, improve the review process and enhance accountability. It’s necessary to keep focused on a culture of risk understanding and management as the AI system and its use evolve over time.
+
+GOVERN touches on all aspects of risk management and should be integrated into the other functions, and is needed for risk management to be effective.
+
+GOVERN 1: The policies and practices related to the use and transparency of the other Core functions
+    1.1: Legal and regulatory requirements are understood and managed
+    1.2: Characteristics of trustworthy AI are integrated into the organization’s policies and practices
+    1.3: Processes and practices in place to determine level of risk management based on the organization’s risk tolerance
+    1.4: Risk management processes and outcomes established through transparent policies, procedures and other organizational controls
+    1.5: Ongoing monitoring and review of the processes and outcomes are planned and organizational roles are defined
+    1.6: Mechanisms and resources to inventory AI systems are in place
+    1.7: Processes for decommissioning AI systems safely
+
+GOVERN 2: Accountability structures for AI teams and individuals
+    2.1: Document clear roles, responsibilities and lines of communications
+    2.2: Risk training to enable personnel and partners to perform their duties consistent with established policies and agreements
+    2.3 Organization’s executive leadership takes responsibility for decisions about AI system development and deployment risk
+
+GOVERN 3: Workforce diversity and accessibility are prioritized
+    3.1: Decision-making related to mapping, measuring, and managing AI risks needs a diverse team (demographics, disciplines, expertise, experiences, and backgrounds)
+    3.2 Policies and procedures to define human oversight roles of AI systems
+
+GOVERN 4: Commitment to a culture
+    4.1: Organizational policies to foster critical thinking and a safety-first approach to all aspects of AI systems
+    4.2: Teams document and communicate the potential risks and impacts of AI technologies
+    4.3: Organizational practices to enable testing, identification and information shariing
+
+GOVERN 5: Robust engagement with AI actors
+    5.1: Policies and practices for collection and integration of feedback from sources external to the design and deployment teams (from within and outside the organization as allowed) regarding individual and societal impacts of AI risks
+    5.2: Mechanisms for the design and deployment team to incorporate external feedback in AI systems
+
+GOVERN 6: Policies to address risks and benefits of third-party software and data and other supply chain issues
+    6.1: Policies to address risks with third-party entities, including intellectual property and other rights
+    6.2: Processes to deal with incidents of third-party data or AI systems deems to be high risk
